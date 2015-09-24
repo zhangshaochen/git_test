@@ -3,4 +3,4 @@ this is my testing-program,aimed at learning git.
 modified at 17:35
 modified at 17:53
 git has mutable index called stage
-git tracks changes
+git tracks changes of files
