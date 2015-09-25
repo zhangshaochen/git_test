@@ -6,3 +6,6 @@ git has mutable index called stage
 git tracks changes of files
 2015 15 53 test git push
 大笨蛋高晶哈哈哈!!!
+好吧,我就假设你是聪明宝宝了,笨蛋!
+
+
