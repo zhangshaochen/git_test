@@ -10,4 +10,5 @@ git tracks changes of files
 好吧,你就是聪明宝宝,欺负我,呜呜 -modified by chouchou at 20150925
 continue learning git 20150928
 creating a new branch named dev
-creating a new branch  &simple
+creating a new branch  &simplle
+git merge --no-ff
