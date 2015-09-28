@@ -13,3 +13,4 @@ continue learning git 20150928
 creating a new branch named dev
 creating a new branch  &simplle
 git merge --no-ff
+git change in github
